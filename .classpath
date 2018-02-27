@@ -3,6 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/MMSClient"/>
-	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/WORKSPACE/DMSR/External jars/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ngl/workspace/workspace_20180117_yhyu/External jars/json-simple-1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
