@@ -21,7 +21,7 @@ public class MessageController
                 break;
             case "LookupService":
                 url += "/serviceInstance?includeDoc=false";
-                url += "&page=0&size=1000";
+                //url += "&page=0&size=1000";
                 break;
             case "GetInstance":
                 if (messageList.length != 3)
